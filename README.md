@@ -30,7 +30,7 @@ A beautifully designed Flutter fitness tracker that helps users complete guided 
 --- 
 
 🔐 SignUp Screen
-![Login Screen)(![WhatsApp Image 2025-05-22 at 23 45 05_4514da58(https://github.com/user-attachments/assets/9aab93c7-a897-422f-84a4-2145e300d507)
+![Login Screen)(![WhatsApp Image 2025-05-22 at 23 45 05_4514da58](https://github.com/user-attachments/assets/9aab93c7-a897-422f-84a4-2145e300d507)
 )
 
 
