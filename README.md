@@ -1,16 +1,41 @@
-# omvad
+# 🏋️ Workout Tracker App
 
-A new Flutter project.
+A beautifully designed Flutter fitness tracker that helps users complete guided workouts with a built-in timer, tracks daily and weekly progress, and stores everything offline.
 
-## Getting Started
+> Built as part of the **OMVAD Internship Take-Home Challenge**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 Firebase Authentication (Login & Signup)
+- 🏠 Home screen with categorized workout programs
+- ⏱ Workout detail screen with auto-running timers per exercise
+- 📆 Calendar view with recorded sessions per day
+- 📊 Weekly statistics & most frequent workout tracker
+- 🌓 Dark mode support with state persistence
+- 💾 Hive local storage (offline capable)
+- 🧪 Includes unit & widget test samples
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+
+| Login | Home | Timer | Calendar | Stats |
+|-------|------|-------|----------|-------|
+| *(Insert Image)* | *(Insert Image)* | *(Insert Image)* | *(Insert Image)* | *(Insert Image)* |
+
+_Add screenshots above in `/screens/` folder or embed external links._
+
+---
+
+## 📦 Getting Started
+
+### 🔧 Installation
+
+```bash
+git clone https://github.com/yourusername/flutter-workout-tracker.git
+cd flutter-workout-tracker
+flutter pub get
+flutter run
+
