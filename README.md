@@ -23,7 +23,8 @@ A beautifully designed Flutter fitness tracker that helps users complete guided 
 
 | Login | Home | Timer | Calendar | Stats |
 |-------|------|-------|----------|-------|
-| *(Insert Image)* | *(Insert Image)* | *(Insert Image)* | *(Insert Image)* | *(Insert Image)* |
+| ![WhatsApp Image 2025-05-22 at 19 31 44_d6f19418](https://github.com/user-attachments/assets/8c6c8c6d-6313-4628-9056-f4f3cda2c586)
+| *(Insert Image)* | *(Insert Image)* | *(Insert Image)* | *(Insert Image)* |
 
 _Add screenshots above in `/screens/` folder or embed external links._
 
@@ -34,8 +35,9 @@ _Add screenshots above in `/screens/` folder or embed external links._
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/flutter-workout-tracker.git
+git clone https://github.com/saichunchu27/flutter-workout-tracker.git
 cd flutter-workout-tracker
 flutter pub get
 flutter run
+
 
