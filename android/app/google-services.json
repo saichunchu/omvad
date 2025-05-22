@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13689508641",
+    "project_id": "assign-a4db1",
+    "storage_bucket": "assign-a4db1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13689508641:android:adcc7bdbc88bc75a19a460",
+        "android_client_info": {
+          "package_name": "com.example.omvad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtSNUotY3VrXQI095s5b8xFCTIlCvP_HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
