@@ -40,4 +40,25 @@ cd flutter-workout-tracker
 flutter pub get
 flutter run
 
+build your own:
+```bash
+flutter build apk --release
+
+| Feature           | Tech Used               |
+| ----------------- | ----------------------- |
+| UI Framework      | Flutter (Material 3)    |
+| Auth              | Firebase Auth           |
+| State Persistence | Hive, SharedPreferences |
+| Calendar          | TableCalendar           |
+| Voice Support     | flutter\_tts            |
+| Theme Switching   | Custom ThemeProvider    |
+
+💡 Future Additions
+📤 Workout history export (CSV/JSON)
+🧘 GIF/video for each exercise
+🧩 Custom workout planner
+📈 Graphs showing monthly trends
+🌐 Sync workouts across devices
+
+
 
